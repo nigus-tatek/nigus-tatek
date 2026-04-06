@@ -54,10 +54,7 @@
   <!-- GitHub Activity -->
   <h3 style="margin: 25px 0 15px; color: #00ff88;">📊 GitHub Activity</h3>
  
-  <img src="https://github-readme-stats.vercel.app/api?username=nigus-tatek&show_icons=true&theme=radical&hide_title=false&hide_rank=false&count_private=true&include_all_commits=true&locale=en&hide_border=true&border_radius=20" 
-       height="195" alt="GitHub Stats" />
- 
-  &nbsp;&nbsp;
+  
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigus-tatek&layout=compact&theme=radical&hide_title=false&langs_count=8&hide_progress=true&locale=en&hide_border=true&border_radius=20" 
        height="195" alt="Top Languages" />
